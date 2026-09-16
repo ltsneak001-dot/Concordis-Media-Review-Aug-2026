@@ -1,6 +1,6 @@
 # README – Standalone qgis2web Export
 
-This export is completely "self-contained".
+This export is completely "self-contained". 
 
 To view the map, simply open "index.html" by double-clicking it.
 No web server or additional software is required.
